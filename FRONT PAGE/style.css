@@ -208,7 +208,10 @@ body {
 
 .container.active .toggle-right {
     transform: translate(200%);
+    
 }
+
+
 
 
 
